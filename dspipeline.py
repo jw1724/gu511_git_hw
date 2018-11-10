@@ -24,7 +24,6 @@ import os
 import shutil
 import tempfile
 import warnings
-
 import numpy as np
 import pandas as pd
 import plotly.graph_objs as go
